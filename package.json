@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@applitools/eyes.webdriverio": "^1.1.2",
+    "@applitools/eyes.webdriverio": "latest",
     "chromedriver": "^2.35.0",
     "wdio-docker-service": "^1.1.7",
     "wdio-selenium-standalone-service": "0.0.9",
